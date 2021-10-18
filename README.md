@@ -17,6 +17,7 @@ Alumnos:
 7. [Cueto Jiménez, Alejandro](https://github.com/AleCueto)
 8. [Dominguez Gomez, Sergio](https://github.com/SergioDominguez15)
 9. [García Campoy, Daniel](https://github.com/DanielGarciaCampoy)
+10. [González Pons, Verónica](https://github.com/Veronicagnzpns)
 
 
 12. [Linero Fernández, Álvaro](https://github.com/Alvaroskill)
