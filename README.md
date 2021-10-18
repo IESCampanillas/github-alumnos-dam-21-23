@@ -1,6 +1,6 @@
 # Perfiles de GitHub los alumnos de DAM de la promoción 2021-2023
 
-Perfiles de GitHub los alumnos de **Desarrollo de Aplicaciones Multiplataforma** de la promoción 2020-2022 del **IES Campanillas**.
+Perfiles de GitHub los alumnos de **Desarrollo de Aplicaciones Multiplataforma** de la promoción 2021-2023 del **IES Campanillas**.
 
 Profesor:
 
