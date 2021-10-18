@@ -12,6 +12,7 @@ Alumnos:
 
 4. [Egea Hermoso, Adrián](https://github.com/AdrianEgeaHermoso)
 5. [Castillo Muñoz, Natalia](https://github.com/mnataliacm)
+6. [Cueto Jiménez, Alejandro](https://github.com/AleCueto)
 
 7. [García Campoy, Daniel](https://github.com/DanielGarciaCampoy)
 
