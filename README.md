@@ -10,11 +10,12 @@ Alumnos:
 
 1. [Andrés Domínguez, Javier](https://github.com/javierandresaluiescampanillas)
 3. [Antúnez Pérez, David](https://github.com/DavidAntunezPerez)
-4. [Egea Hermoso, Adrián](https://github.com/AdrianEgeaHermoso)
-5. [Castillo Muñoz, Natalia](https://github.com/mnataliacm)
-6. [Cueto Jiménez, Alejandro](https://github.com/AleCueto)
-7. [Dominguez Gomez, Sergio](https://github.com/SergioDominguez15)
-7. [García Campoy, Daniel](https://github.com/DanielGarciaCampoy)
+4. [Benítez Ruíz, Jose Antonio](https://github.com/JoseAntonioBenitez)
+5. [Egea Hermoso, Adrián](https://github.com/AdrianEgeaHermoso)
+6. [Castillo Muñoz, Natalia](https://github.com/mnataliacm)
+7. [Cueto Jiménez, Alejandro](https://github.com/AleCueto)
+8. [Dominguez Gomez, Sergio](https://github.com/SergioDominguez15)
+9. [García Campoy, Daniel](https://github.com/DanielGarciaCampoy)
 13. [Morales García, Sergio](https://github.com/sergiomoralesgarcia)
 15. [Moreno Rodríguez, Javier](https://github.com/Javiemr)
 
