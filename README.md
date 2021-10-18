@@ -26,8 +26,9 @@ Alumnos:
 15. [Moreno Rodríguez, Javier](https://github.com/Javiemr)
 
 17. [Rodríguez Barcos, Diego](https://github.com/diegorodrii)
-19. [San Juan Thomnmpson, Joseph Luca](https://github.com/JosephLucaSanJuan)
-20. [Sicilia Pérez, Francisco Javier](https://github.com/FranSiciliaPerez)
+19. [Servia Morales, David] (https://github.com/davidservia) 
+20. [San Juan Thomnmpson, Joseph Luca](https://github.com/JosephLucaSanJuan)
+21. [Sicilia Pérez, Francisco Javier](https://github.com/FranSiciliaPerez)
 
 Si te gusta este repo, no te olvides de darle una :star:
 
