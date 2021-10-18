@@ -21,6 +21,7 @@ Alumnos:
 14. [Moreno González, Alberto](https://github.com/albertomorenogonzalez)
 15. [Moreno Rodríguez, Javier](https://github.com/Javiemr)
 
+17. [Rodríguez Barcos, Diego](https://github.com/diegorodrii)
 19. [San Juan Thomnmpson, Joseph Luca](https://github.com/JosephLucaSanJuan)
 20. [Sicilia Pérez, Francisco Javier](https://github.com/FranSiciliaPerez)
 
