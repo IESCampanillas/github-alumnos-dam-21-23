@@ -15,7 +15,7 @@ Alumnos:
 6. [Cueto Jiménez, Alejandro](https://github.com/AleCueto)
 
 7. [García Campoy, Daniel](https://github.com/DanielGarciaCampoy)
-
+13. [Morales García, Sergio](https://github.com/sergiomoralesgarcia)
 15. [Moreno Rodríguez, Javier](https://github.com/Javiemr)
 
 19. [San Juan Thomnmpson, Joseph Luca](https://github.com/JosephLucaSanJuan)
